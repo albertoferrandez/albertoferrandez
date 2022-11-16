@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @albertoferrandez
+- 👀 I’m interested in ... Frondend development
+- 🌱 I’m currently learning ... React
+- 📫 How to reach me ... https://www.linkedin.com/in/albertoferrandezmiralles/

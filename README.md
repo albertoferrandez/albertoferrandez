@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Alberto Ferrandez 
-- 👀 I’m interested in ... Front-end development
-- 🌱 I’m currently learning ... JavaScript and React
+- 👀 I’m Front-end development
+- 🌱 JavaScript and React
 - 📫 How to reach me ... https://www.linkedin.com/in/albertoferrandezmiralles/

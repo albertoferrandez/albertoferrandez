@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Alberto Ferrandez 
-- 👀 I’m Front-end development
-- 🌱 JavaScript and React
-- 📫 How to reach me ... https://www.linkedin.com/in/albertoferrandezmiralles/
+<header>
+  <h1>ALBERTO FERRANDEZ MIRALLES</h1>
+</header>

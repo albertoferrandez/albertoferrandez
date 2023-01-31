@@ -1,6 +1,4 @@
 
-
-### Alberto Ferrández Miralles  
 <div align="center">
   <h1> Alberto Ferrández Miralles </h1>
 </div>  
@@ -8,8 +6,6 @@
 
 <br/>  
 
-
-## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -25,7 +21,6 @@
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 </div>
-</td></tr></table>  
 
 <br/>  
 

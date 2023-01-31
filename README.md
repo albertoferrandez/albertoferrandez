@@ -36,7 +36,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=albertoferrandez&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  ](https://github-readme-stats.vercel.app/api/top-langs/?username={albertoferrandez}&theme=blue-green)
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username={albertoferrandez}&theme=blue-green)" align="center" /></div>  
 
 <br/>  
 

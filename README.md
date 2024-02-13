@@ -16,7 +16,7 @@
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" height="50" /></a>
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" height="50" /></a>
+<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="VueJS" height="50" /></a>
 </div>
 
 <br/>  
